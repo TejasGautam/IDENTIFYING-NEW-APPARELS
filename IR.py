@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 22 18:45:44 2019
-
-@author: Hp
-"""
-
 import keras
 from keras.models import Sequential
 from keras.layers import Dense,Dropout,Flatten
